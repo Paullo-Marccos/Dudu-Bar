@@ -30,10 +30,3 @@ Você pode testar a amostra interativa funcionando diretamente no seu navegador 
 
 ---
 
-## 👨‍💻 Como Executar o Projeto Localmente
-
-Se você quiser clonar e testar o código na sua máquina:
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
