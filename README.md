@@ -26,7 +26,7 @@
 ## 📱 Visualização Online
 
 Você pode testar a amostra interativa funcionando diretamente no seu navegador através do GitHub Pages:
-👉 **[Clique aqui para acessar o site ao vivo](https://seu-usuario.github.io/nome-do-repositorio/)** *(substitua pelo seu link)*
+👉 **[Clique aqui para acessar o site ao vivo]([https://seu-usuario.github.io/nome-do-repositorio/)** *(substitua pelo seu link)*](https://paullo-marccos.github.io/Dudu-Bar/)
 
 ---
 
